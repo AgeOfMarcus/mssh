@@ -1,0 +1,2 @@
+class NotMSSH(Exception):
+	pass
